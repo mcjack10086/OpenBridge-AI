@@ -108,6 +108,9 @@ OpenBridge AI 希望成为：
 ```text
 2300值班，右前方渔船群，左改向15度避让。
 
+---
+
+
 # Engine version
 
 # OpenBridge AI
