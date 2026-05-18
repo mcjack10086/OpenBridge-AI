@@ -114,14 +114,6 @@ Local searchable maritime knowledge:
 - PSC cases
 - Shipboard manuals
 
----
-
-## Example
-
-Input:
-
-```text
-2300值班，右前方渔船群，左改向15度避让。
 
 # 中文介绍
 
